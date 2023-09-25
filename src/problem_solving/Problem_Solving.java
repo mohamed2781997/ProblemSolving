@@ -27,9 +27,15 @@ public class Problem_Solving {
         */
     
        
+       
+       /*factorial
        Factorial f=new Factorial();
        f.factorial();
-    
+    */
+       
+       
+       Digits d=new Digits();
+       d.digits();
     
     
     }
