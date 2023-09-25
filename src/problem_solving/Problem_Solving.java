@@ -7,6 +7,7 @@ public class Problem_Solving {
     public static void main(String[] args) {
         
         //watermelon
+       /*
         Scanner s = new Scanner(System.in);
         int num;
         
@@ -23,7 +24,14 @@ public class Problem_Solving {
                 System.out.println("no");
             }
         }
-        
+        */
+    
+       
+       Factorial f=new Factorial();
+       f.factorial();
+    
+    
+    
     }
 }
         
